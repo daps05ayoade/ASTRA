@@ -1,5 +1,10 @@
-.env
-__pycache__
-/data
-/algotrading/secrecy.py
+/secrecy.py
+
+# IDE #
 /.vscode
+
+# Jupiter Notebook #
+.pytest_cache
+__pycache__
+*checkpoint.ipynb
+*.ipynb_checkpoints
