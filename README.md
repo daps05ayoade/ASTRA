@@ -1,4 +1,4 @@
-# AlgoTrading System
+# Advanced Sentiment and Technical Analysis Real-time Algorithm
 
 This repository contains an algorithmic trading system built to interact with the Alpaca Trade API. It retrieves trading signals, places market orders, sets trailing stop orders, and adjusts beta exposure with the SPY ETF.
 
